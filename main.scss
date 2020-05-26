@@ -30,8 +30,8 @@ body, html
 
 .card
 {
-	background-color: $color2;
-	color: $color1;
+	background-color: $color1;
+	color: $color2;
 
 	i
 	{
@@ -58,7 +58,7 @@ body, html
 	border-radius: 4px;
 	z-index: 1;
 	animation-name: mintomax;
-	animation-duration: 2s;
+	animation-duration: 1.5s;
 	animation-timing-function: ease-in-out;
 	animation-fill-mode: forwards;
 }
